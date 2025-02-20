@@ -1,0 +1,9 @@
+torch
+numpy
+opencv-python
+ultralytics
+supervision
+matplotlib
+scikit-image
+filterpy
+deep-sort-realtime
